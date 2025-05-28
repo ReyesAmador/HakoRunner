@@ -3,7 +3,7 @@ Autor: Reyes Amador
 :toc:
 :icons: font
 :source-highlighter: highlight.js
-:github-link: https://github.com/TU_USUARIO/TU_REPO
+:github-link: https://github.com/ReyesAmador/HakoRunner
 
 **Hako Runner** es un videojuego desarrollado en Unity como parte de un proyecto personal/educativo. El jugador debe _[resolver puzles mediante el uso de cajas, las deberá de coger y ponerlas en una báscula para llegar a un peso específico. Si el jugador llega al peso, que deberá de descubrir cuál es, se desbloqueará una puerta para avanzar al siguiente nivel. ]_.
 
